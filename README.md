@@ -1,0 +1,2 @@
+grunt-git-rev-parse
+===================
